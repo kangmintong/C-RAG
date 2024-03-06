@@ -54,9 +54,9 @@ class AzureEmbedAPI(object):
         self.engine_name = engine_name
 
         self.cost = 0
-        openai.api_key = "a5bee4a6d888497cbf4dff7b440cdb4b"
-        openai.api_base = "https://lzn-openai.openai.azure.com/"
-        self.model_name = "lzn-embedding-ada-002"
+        openai.api_key = ""
+        openai.api_base = ""
+        self.model_name = ""
 
         openai.api_type = 'azure'
         openai.api_version = '2023-05-15'
