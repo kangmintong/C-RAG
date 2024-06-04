@@ -1,4 +1,4 @@
-# C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models
+# C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models [ICML 2024]
 
 We provide the implementation of [C-RAG](https://arxiv.org/abs/2402.03181) in this repositary. 
 
